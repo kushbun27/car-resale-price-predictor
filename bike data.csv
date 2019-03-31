@@ -1,0 +1,102 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+Royal Enfield Thunder 500,2016,1.75,1.9,3000,Petrol,Individual,Manual,0
+UM Renegade Mojave,2017,1.7,1.82,1400,Petrol,Individual,Manual,0
+KTM RC200,2017,1.65,1.78,4000,Petrol,Individual,Manual,0
+Bajaj Dominar 400,2017,1.45,1.6,1200,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2017,1.35,1.47,4100,Petrol,Individual,Manual,0
+KTM RC390,2015,1.35,2.37,21700,Petrol,Individual,Manual,0
+Hyosung GT250R,2014,1.35,3.45,16500,Petrol,Individual,Manual,1
+Royal Enfield Thunder 350,2013,1.25,1.5,15000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 350,2016,1.2,1.5,18000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2017,1.2,1.47,11000,Petrol,Individual,Manual,0
+KTM RC200,2016,1.2,1.78,6000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 350,2016,1.15,1.5,8700,Petrol,Individual,Manual,0
+KTM 390 Duke ,2014,1.15,2.4,7000,Petrol,Individual,Manual,0
+Mahindra Mojo XT300,2016,1.15,1.4,35000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2015,1.15,1.47,17000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2015,1.11,1.47,17500,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2013,1.1,1.47,33000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 500,2015,1.1,1.9,14000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2015,1.1,1.47,26000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 500,2013,1.05,1.9,5400,Petrol,Individual,Manual,0
+Bajaj Pulsar RS200,2016,1.05,1.26,5700,Petrol,Individual,Manual,0
+Royal Enfield Thunder 350,2011,1.05,1.5,6900,Petrol,Individual,Manual,0
+Royal Enfield Bullet 350,2016,1.05,1.17,6000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2013,1,1.47,46500,Petrol,Individual,Manual,0
+Royal Enfield Classic 500,2012,0.95,1.75,11500,Petrol,Individual,Manual,0
+Royal Enfield Classic 500,2009,0.9,1.75,40000,Petrol,Individual,Manual,0
+Bajaj Avenger 220,2017,0.9,0.95,1300,Petrol,Individual,Manual,0
+Bajaj Avenger 150,2016,0.75,0.8,7000,Petrol,Individual,Manual,0
+Honda CB Hornet 160R,2017,0.8,0.87,3000,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2017,0.78,0.84,5000,Petrol,Individual,Manual,0
+Honda CB Hornet 160R,2017,0.75,0.87,11000,Petrol,Individual,Manual,0
+Yamaha FZ 16,2015,0.75,0.82,18000,Petrol,Individual,Manual,0
+Bajaj Avenger 220,2017,0.75,0.95,3500,Petrol,Individual,Manual,0
+Bajaj Avenger 220,2016,0.72,0.95,500,Petrol,Individual,Manual,0
+TVS Apache RTR 160,2017,0.65,0.81,11800,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2015,0.65,0.74,5000,Petrol,Individual,Manual,0
+Honda CBR 150,2014,0.65,1.2,23500,Petrol,Individual,Manual,0
+Hero Extreme,2013,0.65,0.787,16000,Petrol,Individual,Manual,0
+Honda CB Hornet 160R,2016,0.6,0.87,15000,Petrol,Individual,Manual,0
+Bajaj Avenger 220 dtsi,2015,0.6,0.95,16600,Petrol,Individual,Manual,0
+Honda CBR 150,2013,0.6,1.2,32000,Petrol,Individual,Manual,0
+Bajaj Avenger 150 street,2016,0.6,0.8,20000,Petrol,Individual,Manual,0
+Yamaha FZ  v 2.0,2015,0.6,0.84,29000,Petrol,Individual,Manual,0
+Yamaha FZ  v 2.0,2016,0.6,0.84,25000,Petrol,Individual,Manual,0
+Bajaj Pulsar  NS 200,2014,0.6,0.99,25000,Petrol,Individual,Manual,0
+TVS Apache RTR 160,2012,0.6,0.81,19000,Petrol,Individual,Manual,0
+Hero Extreme,2014,0.55,0.787,15000,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2015,0.55,0.84,58000,Petrol,Individual,Manual,0
+Bajaj Pulsar 220 F,2010,0.52,0.94,45000,Petrol,Individual,Manual,0
+Bajaj Pulsar 220 F,2016,0.51,0.94,24000,Petrol,Individual,Manual,0
+TVS Apache RTR 180,2011,0.5,0.826,6000,Petrol,Individual,Manual,0
+Hero Passion X pro,2016,0.5,0.55,31000,Petrol,Individual,Manual,0
+Bajaj Pulsar NS 200,2012,0.5,0.99,13000,Petrol,Individual,Manual,0
+Bajaj Pulsar NS 200,2013,0.5,0.99,45000,Petrol,Individual,Manual,0
+Yamaha Fazer ,2014,0.5,0.88,8000,Petrol,Individual,Manual,0
+Honda Activa 4G,2017,0.48,0.51,4300,Petrol,Individual,Automatic,0
+TVS Sport ,2017,0.48,0.52,15000,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2015,0.48,0.84,23000,Petrol,Individual,Manual,0
+Honda Dream Yuga ,2017,0.48,0.54,8600,Petrol,Individual,Manual,0
+Honda Activa 4G,2017,0.45,0.51,4000,Petrol,Individual,Automatic,0
+Bajaj Avenger Street 220,2011,0.45,0.95,24000,Petrol,Individual,Manual,0
+TVS Apache RTR 180,2014,0.45,0.826,23000,Petrol,Individual,Manual,0
+Bajaj Pulsar NS 200,2012,0.45,0.99,14500,Petrol,Individual,Manual,0
+Bajaj Avenger 220 dtsi,2010,0.45,0.95,27000,Petrol,Individual,Manual,0
+Hero Splender iSmart,2016,0.45,0.54,14000,Petrol,Individual,Manual,0
+Activa 3g,2016,0.45,0.54,500,Petrol,Individual,Automatic,0
+Hero Passion Pro,2016,0.45,0.55,1000,Petrol,Individual,Manual,0
+TVS Apache RTR 160,2014,0.42,0.81,42000,Petrol,Individual,Manual,0
+Honda CB Trigger,2013,0.42,0.73,12000,Petrol,Individual,Manual,0
+Hero Splender iSmart,2015,0.4,0.54,14000,Petrol,Individual,Manual,0
+Yamaha FZ S ,2012,0.4,0.83,5500,Petrol,Individual,Manual,0
+Hero Passion Pro,2015,0.4,0.55,6700,Petrol,Individual,Manual,0
+Bajaj Pulsar 135 LS,2014,0.4,0.64,13700,Petrol,Individual,Manual,0
+Activa 4g,2017,0.4,0.51,1300,Petrol,Individual,Automatic,0
+Honda CB Unicorn,2015,0.38,0.72,38600,Petrol,Individual,Manual,0
+Hero Honda CBZ extreme,2011,0.38,0.787,75000,Petrol,Individual,Manual,0
+Honda Karizma,2011,0.35,1.05,30000,Petrol,Individual,Manual,0
+Honda Activa 125,2016,0.35,0.57,24000,Petrol,Individual,Automatic,0
+TVS Jupyter,2014,0.35,0.52,19000,Petrol,Individual,Automatic,0
+Honda Karizma,2010,0.31,1.05,213000,Petrol,Individual,Manual,0
+Hero Honda Passion Pro,2012,0.3,0.51,60000,Petrol,Individual,Manual,0
+Hero Splender Plus,2016,0.3,0.48,50000,Petrol,Individual,Manual,0
+Honda CB Shine,2013,0.3,0.58,30000,Petrol,Individual,Manual,0
+Bajaj Discover 100,2013,0.27,0.47,21000,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2008,0.25,0.75,26000,Petrol,Individual,Manual,1
+Suzuki Access 125,2008,0.25,0.58,1900,Petrol,Individual,Automatic,0
+TVS Wego,2010,0.25,0.52,22000,Petrol,Individual,Automatic,0
+Honda CB twister,2013,0.25,0.51,32000,Petrol,Individual,Manual,0
+Hero Glamour,2013,0.25,0.57,18000,Petrol,Individual,Manual,0
+Hero Super Splendor,2005,0.2,0.57,55000,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2008,0.2,0.75,60000,Petrol,Individual,Manual,0
+Bajaj Discover 125,2012,0.2,0.57,25000,Petrol,Individual,Manual,1
+Hero Hunk,2007,0.2,0.75,49000,Petrol,Individual,Manual,1
+Hero  Ignitor Disc,2013,0.2,0.65,24000,Petrol,Individual,Manual,1
+Hero  CBZ Xtreme,2008,0.2,0.787,50000,Petrol,Individual,Manual,0
+Bajaj  ct 100,2015,0.18,0.32,35000,Petrol,Individual,Manual,0
+Activa 3g,2008,0.17,0.52,200000,Petrol,Individual,Automatic,0
+Honda CB twister,2010,0.16,0.51,33000,Petrol,Individual,Manual,0
+Bajaj Discover 125,2011,0.15,0.57,35000,Petrol,Individual,Manual,1
+Honda CB Shine,2007,0.12,0.58,53000,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2006,0.1,0.75,92233,Petrol,Individual,Manual,0
